@@ -8,6 +8,6 @@ rust = "1.98"
 description = "Build in release mode"
 run = "cargo build --release"
 
-[tasks.run]
+[tasks.snorm]
 description = "Run the CLI"
 run = "cargo run --"
